@@ -51,7 +51,6 @@ const Nav = styled.nav`
 
 const Logo = styled.img`
     width: 80px;
-
 `
 
 const NavMenu = styled.div`
